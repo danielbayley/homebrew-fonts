@@ -33,7 +33,7 @@ fontFamily: 'FiraCode-Retina, monospace',
 
 [Contribute][guide]
 -------------------
-Follow the contribution [guide], or copy and adapt an [existing] _[Cask]_.
+`git config core.hooksPath .github/hooks` and follow the contribution [guide], or copy and adapt an [existing] _[Cask]_.
 
 License
 -------
